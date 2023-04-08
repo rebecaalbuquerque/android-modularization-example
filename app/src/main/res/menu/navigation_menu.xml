@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/aaa_nav_graph"
+        android:icon="@drawable/ic_aaa"
+        android:title="Aaa"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bbb_nav_graph"
+        android:icon="@drawable/ic_bbb"
+        android:title="Bbb"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/ccc_nav_graph"
+        android:icon="@drawable/ic_ccc"
+        android:title="Ccc"
+        app:showAsAction="ifRoom" />
+</menu>
